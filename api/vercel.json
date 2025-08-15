@@ -2,7 +2,7 @@
     "version": 2,
       "framework": null,
     "functions": {
-        "api/index.php": { "runtime": "vercel-php@0.6.0" }
+        "api/index.php": { "runtime": "vercel-php@0.5.5" }
     },
     "routes": [{
         "src": "/(.*)",
@@ -17,7 +17,7 @@
         "APP_ENV": "production",
         "APP_DEBUG": "false",
         "APP_URL": "https://tylerwrom-backend-project.com",
-        "APP KEY": "base64:bQesf/R2xsGQT1ytfZFgJ9jOfDPNv1mMIM6LmUqLDwI=",
+        "APP_KEY": "base64:bQesf/R2xsGQT1ytfZFgJ9jOfDPNv1mMIM6LmUqLDwI=",
 
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
